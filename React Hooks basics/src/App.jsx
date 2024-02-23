@@ -10,9 +10,9 @@ function App() {
   return (
     <>
       {/* <UseState/> */}
-      {/* <UseState2 />
+      {/* <UseState2 /> */}
       <Prog3 />
-      <UseState4 />
+      {/* <UseState4 />
       <UseState5/> */}
     </>
   )
