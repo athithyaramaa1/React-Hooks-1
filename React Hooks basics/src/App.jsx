@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <UseState/>
+      {/* <UseState/> */}
       {/* <UseState2 />
       <Prog3 />
       <UseState4 />
