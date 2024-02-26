@@ -1,5 +1,6 @@
 import './App.css'
 import Prog6 from './Progressions/Prog6'
+import Prog7 from './Progressions/Prog7'
 // import Prog3 from './Progressions/Prog3'
 // import UseState2 from './Progressions/Prog2'
 // import UseState4 from './Progressions/Prog4'
@@ -16,6 +17,8 @@ function App() {
       {/* <UseState4 /> */}
       {/* <UseState5/> */}
       <Prog6 />
+      <Prog7 />
+      
 
     </>
   )

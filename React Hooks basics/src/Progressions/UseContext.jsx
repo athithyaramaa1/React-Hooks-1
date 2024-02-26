@@ -1,6 +1,6 @@
 
 import { useContext } from "react";
-import { ToggleTheme } from "../App";
+import { ToggleTheme } from "./Prog6";
 
 function UseContext(){
   const theme = useContext(ToggleTheme);
